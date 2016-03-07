@@ -654,7 +654,7 @@ Openers()
 
 #working
 SIM()
-#CHANGE FUCKING 'phone'.phoneIMEI TO LONG, STOP MAKING IT AN INT! IT'S LIKE 12 DIGITS LONG XD
+#CHANGE  'phone'.phoneIMEI TO LONG, STOP MAKING IT AN INT! IT'S LIKE 12 DIGITS LONG XD
 Phone()
 Account()
 Employee()
